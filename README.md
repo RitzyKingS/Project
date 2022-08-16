@@ -29,7 +29,7 @@ A step by step instructions on how to install the software
 
 ## Basic Usages
 
-After downloading the Project File, you can simply edit the HTML and CSS files from the ` ` folder.
+After downloading the Project File, you can simply edit the HTML , CSS and PHP files from the `Online Book Store` folder.
 
 
 ## License
