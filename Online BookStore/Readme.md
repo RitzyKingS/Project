@@ -9,12 +9,11 @@ Prerequisites
 
 ⚫ List what to install and how to install it 
 
-
 ## Installation 
 
 A step by step instructions on how to install the software 
 
-open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then 
+open this Folder with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then 
 
 open the Extension and Download LiveServer 
 
@@ -25,17 +24,16 @@ Issue Tracker: github.com/project/issues
 
 ## Basic Usages
 
-After downloading the Project File, you can simply edit the HTML and CSS files from the ` ` folder.
+After downloading the Project File, you can simply edit the HTML and CSS files from the `Online Book Store ` folder.
 
 
 ## License
 
 Copyright (c) 2016 - Present, Designed & Developed by RitzyKingS
 
-**Code License:** Released under the [MIT](https://github.com/RitzyKingS/Project/new/main/Online%20BookStore/) license.
+**Code License:** Released under the [MIT](https://github.com/RitzyKingS/Project/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
-
 
 
 ## Contact 
